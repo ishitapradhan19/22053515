@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+dist/
+build/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+package-lock.json
